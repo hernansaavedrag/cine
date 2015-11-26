@@ -22,6 +22,8 @@ public class Pelicula {
     private int diasPrestamo;
     private String formato;
     private Timestamp fechaIngreso;
+    
+    public String saludo="hola";
 
     public Pelicula() {
     }
